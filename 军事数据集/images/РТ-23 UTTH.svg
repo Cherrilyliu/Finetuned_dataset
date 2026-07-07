@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: stratatomster -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str7 {stroke:#2B2A29;stroke-width:17.64;stroke-opacity:0.501961}
+    .str9 {stroke:#CCCCCC;stroke-width:17.63}
+    .str6 {stroke:#E6E6E6;stroke-width:17.63}
+    .str8 {stroke:#FEFEFE;stroke-width:17.63}
+    .str1 {stroke:#2B2A29;stroke-width:17.64}
+    .str2 {stroke:#2B2A29;stroke-width:7.62}
+    .str0 {stroke:#2B2A29;stroke-width:17.64;stroke-linejoin:round}
+    .str4 {stroke:red;stroke-width:7.62;stroke-linejoin:round}
+    .str5 {stroke:#2B2A29;stroke-width:17.64;stroke-linejoin:bevel}
+    .str3 {stroke:#2B2A29;stroke-width:20;stroke-dasharray:80.000000 40.000000}
+    .fil4 {fill:none}
+    .fil17 {fill:none}
+    .fil14 {fill:#242B16}
+    .fil12 {fill:#2B2A29}
+    .fil30 {fill:#5B5B5B}
+    .fil13 {fill:#677B37}
+    .fil29 {fill:#6C6D6E}
+    .fil34 {fill:#7D7676}
+    .fil23 {fill:#898989}
+    .fil19 {fill:#9D9E9E}
+    .fil20 {fill:#B2B3B3}
+    .fil21 {fill:#D9DADA}
+    .fil15 {fill:#EBECEC}
+    .fil18 {fill:#FEFEFE}
+    .fil33 {fill:url(#id0)}
+    .fil5 {fill:url(#id1)}
+    .fil9 {fill:url(#id2)}
+    .fil3 {fill:url(#id3)}
+    .fil1 {fill:url(#id4)}
+    .fil16 {fill:url(#id5)}
+    .fil32 {fill:url(#id6)}
+    .fil26 {fill:url(#id7)}
+    .fil11 {fill:url(#id8)}
+    .fil10 {fill:url(#id9)}
+    .fil6 {fill:url(#id10)}
+    .fil25 {fill:url(#id11)}
+    .fil0 {fill:url(#id12)}
+    .fil2 {fill:url(#id13)}
+    .fil28 {fill:url(#id14)}
+    .fil8 {fill:url(#id15)}
+    .fil24 {fill:url(#id16)}
+    .fil7 {fill:url(#id17)}
+    .fil27 {fill:url(#id18)}
+    .fil22 {fill:url(#id19)}
+    .fil31 {fill:url(#id20)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="10374" y1="6006.13" x2="10604.5" y2="6006.13">
+   <stop offset="0" style="stop-opacity:1; stop-color:#272B1F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#384D18"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="10220" y1="3137.5" x2="10529" y2="3137.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E32924"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#660606"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="8991" y1="8817" x2="11758" y2="8817">
+   <stop offset="0" style="stop-opacity:1; stop-color:#627042"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#698032"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#414A2B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1F2414"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="8940" y1="11326.5" x2="11807" y2="11326.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D9CC53"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#FDED47"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#B2A435"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8A7C16"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="objectBoundingBox" x1="0%" y1="50%" x2="100%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#677A24"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#F49844"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#506E26"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#506E26"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#396129"/>
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="8991" y1="8147" x2="11763" y2="8147">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7B7C7D"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#C5C6C9"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#3E4552"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="8946" y1="9762.6" x2="11901" y2="9762.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7B7C7D"/>
+   <stop offset="0.45098" style="stop-opacity:1; stop-color:#3E4552"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="0.788235" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="8942" y1="27034.5" x2="11807" y2="27034.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#030305"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#030305"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#141921"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#06070A"/>
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="objectBoundingBox" x1="0%" y1="50%" x2="100%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7B7C7D"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#C5C6C9"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#3E4552"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="objectBoundingBox" x1="0%" y1="50%" x2="100%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7B7C7D"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#C5C6C9"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#3E4552"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="9705.81" y1="3889.11" x2="11043.2" y2="4076.89">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7B7C7D"/>
+   <stop offset="0.0784314" style="stop-opacity:1; stop-color:#C5C6C9"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#3E3E3F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="8996" y1="21417" x2="11753" y2="21417">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="8941" y1="25806" x2="11808" y2="25806">
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="8940" y1="17165" x2="11807" y2="17165">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="10143.6" y1="27080.9" x2="10605.4" y2="27792.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#787272"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#3F3D3E"/>
+   <stop offset="0.129412" style="stop-opacity:1; stop-color:#4A4E57"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#06070A"/>
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" x1="8947" y1="7812" x2="11801" y2="7812">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1C2111"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#448032"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#111F10"/>
+  </linearGradient>
+  <linearGradient id="id16" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="0%" y1="50%" x2="100%" y2="50%">
+  </linearGradient>
+  <linearGradient id="id17" gradientUnits="userSpaceOnUse" x1="8999.04" y1="6011.1" x2="11750" y2="6347.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#627042"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#698032"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1F2414"/>
+  </linearGradient>
+  <linearGradient id="id18" gradientUnits="userSpaceOnUse" x1="9193" y1="27221.5" x2="11555" y2="27221.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#030305"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#141921"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#06070A"/>
+  </linearGradient>
+  <linearGradient id="id19" gradientUnits="userSpaceOnUse" xlink:href="#id5" x1="8942" y1="11035" x2="11806" y2="11035">
+  </linearGradient>
+  <linearGradient id="id20" gradientUnits="userSpaceOnUse" x1="9848.53" y1="18214.1" x2="9629.01" y2="18214.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#282D3B"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="eaff8aCorpID_0eaff8a-Layer"/>
+  <path class="fil0 str0" d="M8941 26466l2867 0 0 -1320 -2867 0 0 1320z"/>
+  <path class="fil1 str1" d="M8995 17095l2757 0 0 -5699 -2757 0 0 5699z"/>
+  <path class="fil2 str1" d="M8940 17235l2867 0c-31,-41 -49,-87 -55,-140l-2757 0c-6,53 -25,99 -55,140z"/>
+  <path class="fil3 str0" d="M8940 11257l2867 0c-31,40 -49,87 -55,139l-2757 0c-6,-52 -25,-99 -55,-139z"/>
+  <path class="fil4 str2" d="M8995 11725l2757 0"/>
+  <path class="fil4 str2" d="M8995 12133l2757 0"/>
+  <path class="fil4 str2" d="M8995 12542l2757 0"/>
+  <path class="fil4 str2" d="M8995 12950l2757 0"/>
+  <path class="fil4 str2" d="M8995 13359l2757 0"/>
+  <path class="fil4 str2" d="M8995 14176l2757 0"/>
+  <path class="fil4 str2" d="M8995 14585l2757 0"/>
+  <path class="fil4 str2" d="M8995 14993l2757 0"/>
+  <path class="fil4 str2" d="M8995 15402l2757 0"/>
+  <path class="fil4 str2" d="M8995 15810l2757 0"/>
+  <path class="fil4 str2" d="M8995 16219l2757 0"/>
+  <path class="fil4 str2" d="M8995 16628l2757 0"/>
+  <path class="fil4 str2" d="M9806 11396l0 5699"/>
+  <path class="fil4 str2" d="M11394 11396l0 5699"/>
+  <path class="fil4 str2" d="M9224 11396l0 5699"/>
+  <path class="fil4 str2" d="M10723 11396l0 5699"/>
+  <path class="fil4 str3" d="M8995 11571l2757 0"/>
+  <path class="fil4 str3" d="M8995 11979l2757 0"/>
+  <path class="fil4 str3" d="M8995 12388l2757 0"/>
+  <path class="fil4 str3" d="M8995 12796l2757 0"/>
+  <path class="fil4 str3" d="M8995 13205l2757 0"/>
+  <path class="fil4 str3" d="M8995 13613l2757 0"/>
+  <path class="fil4 str3" d="M8995 14022l2757 0"/>
+  <path class="fil4 str3" d="M8995 14431l2757 0"/>
+  <path class="fil4 str3" d="M8995 14839l2757 0"/>
+  <path class="fil4 str3" d="M8995 15248l2757 0"/>
+  <path class="fil4 str3" d="M8995 15656l2757 0"/>
+  <path class="fil4 str3" d="M8995 16065l2757 0"/>
+  <path class="fil4 str3" d="M8995 16474l2757 0"/>
+  <path class="fil4 str3" d="M8995 16882l2757 0"/>
+  <path class="fil5 str4" d="M10220 3197l309 0c-18,-79 -102,-118 -153,-119 -52,0 -135,34 -156,119z"/>
+  <path class="fil6 str1" d="M9710 4769l1329 0 -510 -1572 -309 0 -510 1572z"/>
+  <path class="fil4 str1" d="M10203 3238l344 0"/>
+  <path class="fil4 str1" d="M10144 3417l460 0"/>
+  <path class="fil4 str1" d="M10087 3595l575 0"/>
+  <path class="fil4 str1" d="M10029 3774l691 0"/>
+  <path class="fil4 str1" d="M9971 3952l805 0"/>
+  <path class="fil4 str1" d="M9913 4131l923 0"/>
+  <path class="fil4 str1" d="M9855 4309l1039 0"/>
+  <path class="fil4 str1" d="M9797 4488l1155 0"/>
+  <path class="fil4 str1" d="M9739 4666l1271 0"/>
+  <path class="fil7 str1" d="M9710 4769l1329 0 714 2821 -2757 0 714 -2821z"/>
+  <path class="fil8 str5" d="M8947 8034l2854 0 0 -444 -2854 0 0 444z"/>
+  <path class="fil9 str1" d="M8991 9374l2767 0 0 -1114 -2767 0 0 1114z"/>
+  <path class="fil10 str1" d="M10375 9769l-1440 -86 96 474 1344 0 1343 0 96 -424 -1439 36z"/>
+  <path class="fil11 str0" d="M10375 10396l-1319 0 -114 229 1433 0 1432 0 -114 -229 -1318 0z"/>
+  <path class="fil12 str6" d="M9529 8784c-21,-93 -75,-164 -143,-183 -7,-36 -24,-61 -45,-61 -23,0 -42,28 -47,67 -49,22 -90,71 -113,136l-32 -4 -6 201 25 4c18,88 67,157 128,183 8,30 24,50 43,50 18,0 33,-17 41,-44 58,-14 107,-65 134,-135l46 7 0 -217 -31 -4z"/>
+  <path class="fil13 str1" d="M9119 5760l355 -56 -153 603 -249 -203 47 -344z"/>
+  <path class="fil14 str1" d="M11629 5760l-355 -56 153 603 249 -203 -47 -344z"/>
+  <path class="fil14 str0" d="M10374 5704l85 397 -85 206 -85 -206 85 -397z"/>
+  <path class="fil15 str5" d="M10375 4769l-39 123 39 59 38 -59 -38 -123z"/>
+  <path class="fil15 str1" d="M9664 4951l46 -182 -101 123 55 59z"/>
+  <path class="fil15 str1" d="M11085 4951l-46 -182 101 123 -55 59z"/>
+  <g id="_855349424">
+   <path class="fil16" d="M8991 8034l2772 0 0 226 -2772 0 0 -226z"/>
+   <path class="fil17 str7" d="M8991 8034l2772 0 0 226 -2772 0 0 -226z"/>
+  </g>
+  <path class="fil4 str1" d="M9150 6982l2449 0"/>
+  <path class="fil18" d="M8978 7950l110 0 0 -246 -110 0 0 246z"/>
+  <path class="fil18" d="M9203 7950l212 0 0 -246 -212 0 0 246z"/>
+  <path class="fil18" d="M9573 7950l340 0 0 -246 -340 0 0 246z"/>
+  <path class="fil15" d="M10155 7950l438 0 0 -246 -438 0 0 246z"/>
+  <path class="fil19" d="M11659 7950l110 0 0 -246 -110 0 0 246z"/>
+  <path class="fil20" d="M11331 7950l212 0 0 -246 -212 0 0 246z"/>
+  <path class="fil21" d="M10834 7950l340 0 0 -246 -340 0 0 246z"/>
+  <path class="fil11 str1" d="M10375 10157l1318 0 0 239 -1318 0 -1319 0 0 -239 1319 0z"/>
+  <path class="fil10 str0" d="M10375 10625l1432 0 0 301 -1432 0 -1433 0 0 -301 1433 0z"/>
+  <path class="fil22 str0" d="M8942 11257l2864 0 0 -444 -2864 0 0 444z"/>
+  <path class="fil18" d="M8940 11172l113 0 0 -246 -113 0 0 246z"/>
+  <path class="fil18" d="M9173 11172l218 0 0 -246 -218 0 0 246z"/>
+  <path class="fil18" d="M9553 11172l349 0 0 -246 -349 0 0 246z"/>
+  <path class="fil15" d="M10151 11172l450 0 0 -246 -450 0 0 246z"/>
+  <path class="fil23" d="M11694 11172l113 0 0 -246 -113 0 0 246z"/>
+  <path class="fil20" d="M11358 11172l218 0 0 -246 -218 0 0 246z"/>
+  <path class="fil21" d="M10847 11172l349 0 0 -246 -349 0 0 246z"/>
+  <path class="fil24 str1" d="M8942 14313l2864 0 0 -444 -2864 0 0 444z"/>
+  <path class="fil18" d="M8940 14228l113 0 0 -246 -113 0 0 246z"/>
+  <path class="fil18" d="M9173 14228l218 0 0 -246 -218 0 0 246z"/>
+  <path class="fil18" d="M9553 14228l349 0 0 -246 -349 0 0 246z"/>
+  <path class="fil15" d="M10151 14228l450 0 0 -246 -450 0 0 246z"/>
+  <path class="fil23" d="M11694 14228l113 0 0 -246 -113 0 0 246z"/>
+  <path class="fil20" d="M11358 14228l218 0 0 -246 -218 0 0 246z"/>
+  <path class="fil21" d="M10847 14228l349 0 0 -246 -349 0 0 246z"/>
+  <path class="fil24 str0" d="M8942 17688l2864 0 0 -444 -2864 0 0 444z"/>
+  <path class="fil18" d="M8940 17603l113 0 0 -246 -113 0 0 246z"/>
+  <path class="fil18" d="M9173 17603l218 0 0 -246 -218 0 0 246z"/>
+  <path class="fil18" d="M9553 17603l349 0 0 -246 -349 0 0 246z"/>
+  <path class="fil15" d="M10151 17603l450 0 0 -246 -450 0 0 246z"/>
+  <path class="fil19" d="M11694 17603l113 0 0 -246 -113 0 0 246z"/>
+  <path class="fil20" d="M11358 17603l218 0 0 -246 -218 0 0 246z"/>
+  <path class="fil21" d="M10847 17603l349 0 0 -246 -349 0 0 246z"/>
+  <path class="fil25 str1" d="M8996 24972l2757 0 0 -7110 -2757 0 0 7110z"/>
+  <path class="fil1 str0" d="M8941 25146l2867 0c-30,-51 -49,-109 -55,-174l-2757 0c-6,65 -25,123 -55,174z"/>
+  <path class="fil1 str0" d="M8941 17688l2867 0c-30,50 -49,108 -55,174l-2757 0c-6,-66 -25,-124 -55,-174z"/>
+  <path class="fil4 str1" d="M8996 19291l2757 0"/>
+  <path class="fil4 str1" d="M8996 19800l2757 0"/>
+  <path class="fil4 str1" d="M9807 17862l0 7110"/>
+  <path class="fil4 str1" d="M11395 17862l0 7110"/>
+  <path class="fil4 str1" d="M9225 17862l0 7110"/>
+  <path class="fil4 str1" d="M10724 17862l0 7110"/>
+  <path class="fil4 str1" d="M8996 18079l2757 0"/>
+  <path class="fil4 str1" d="M8996 18589l2757 0"/>
+  <path class="fil4 str1" d="M8996 19099l2757 0"/>
+  <path class="fil4 str1" d="M8996 19608l2757 0"/>
+  <path class="fil4 str1" d="M8996 20118l2757 0"/>
+  <path class="fil4 str1" d="M8996 20628l2757 0"/>
+  <path class="fil4 str1" d="M8996 21137l2757 0"/>
+  <path class="fil4 str1" d="M8996 21647l2757 0"/>
+  <path class="fil4 str1" d="M8996 22157l2757 0"/>
+  <path class="fil4 str1" d="M8996 22667l2757 0"/>
+  <path class="fil4 str1" d="M8996 23176l2757 0"/>
+  <path class="fil4 str1" d="M8996 23686l2757 0"/>
+  <path class="fil4 str1" d="M8996 24196l2757 0"/>
+  <path class="fil4 str1" d="M8996 24706l2757 0"/>
+  <path class="fil24 str1" d="M8942 19366l2864 0 0 -359 -2864 0 0 359z"/>
+  <path class="fil18" d="M8940 19297l113 0 0 -199 -113 0 0 199z"/>
+  <path class="fil18" d="M9173 19297l218 0 0 -199 -218 0 0 199z"/>
+  <path class="fil18" d="M9553 19297l349 0 0 -199 -349 0 0 199z"/>
+  <path class="fil15" d="M10151 19297l450 0 0 -199 -450 0 0 199z"/>
+  <path class="fil19" d="M11694 19297l113 0 0 -199 -113 0 0 199z"/>
+  <path class="fil20" d="M11358 19297l218 0 0 -199 -218 0 0 199z"/>
+  <path class="fil21" d="M10847 19297l349 0 0 -199 -349 0 0 199z"/>
+  <path class="fil24 str1" d="M8942 19725l2864 0 0 -359 -2864 0 0 359z"/>
+  <path class="fil18" d="M8940 19656l113 0 0 -199 -113 0 0 199z"/>
+  <path class="fil18" d="M9173 19656l218 0 0 -199 -218 0 0 199z"/>
+  <path class="fil18" d="M9553 19656l349 0 0 -199 -349 0 0 199z"/>
+  <path class="fil15" d="M10151 19656l450 0 0 -199 -450 0 0 199z"/>
+  <path class="fil19" d="M11694 19656l113 0 0 -199 -113 0 0 199z"/>
+  <path class="fil20" d="M11358 19656l218 0 0 -199 -218 0 0 199z"/>
+  <path class="fil21" d="M10847 19656l349 0 0 -199 -349 0 0 199z"/>
+  <path class="fil10 str1" d="M8905 26466l2940 0 0 444 -2940 0 0 -444z"/>
+  <path class="fil18" d="M8902 26826l116 0 0 -246 -116 0 0 246z"/>
+  <path class="fil18" d="M9142 26826l224 0 0 -246 -224 0 0 246z"/>
+  <path class="fil18" d="M9531 26826l358 0 0 -246 -358 0 0 246z"/>
+  <path class="fil15" d="M10145 26826l462 0 0 -246 -462 0 0 246z"/>
+  <path class="fil19" d="M11728 26826l116 0 0 -246 -116 0 0 246z"/>
+  <path class="fil20" d="M11384 26826l224 0 0 -246 -224 0 0 246z"/>
+  <path class="fil21" d="M10860 26826l358 0 0 -246 -358 0 0 246z"/>
+  <path class="fil26 str1" d="M11807 26910l0 71c0,59 -113,178 -251,178l-2363 0c-138,0 -251,-119 -251,-178l0 -71 2865 0z"/>
+  <path class="fil27 str1" d="M9193 27284l2362 0 0 -125 -2362 0 0 125z"/>
+  <path class="fil28 str1" d="M9710 27284l1329 0 182 305 -1693 0 182 -305z"/>
+  <path class="fil29 str1" d="M9384 10172l301 -3 -1 456 -389 0 89 -453z"/>
+  <path class="fil30 str0" d="M9683 10625l2 -456 34 23 -7 935 -5 143 -62 180 25 5660 37 134 -2 379 -49 239 -1 963 54 182 -6 728 -74 173 21 6260 -69 -212 9 -8276 1 -567 6 -5666 76 -170 10 -652z"/>
+  <path class="fil31" d="M9719 10192l130 144 -38 921 -94 216 8 5610 56 135 3 422 -56 252 12 930 51 185 -17 718 -53 194 44 6317 -22 -13 -93 -55 -21 -6260 74 -183 6 -718 -54 -182 1 -963 49 -239 2 -379 -37 -134 -25 -5660 62 -193 12 -1065z"/>
+  <path class="fil32" d="M8982 9918l-36 -180 1460 -269 1383 0 112 459c-201,-445 -123,-303 -151,-130 -10,59 -60,202 -60,247 0,23 -8,5 -84,-5 0,-88 -63,-192 -136,-192 -74,0 -137,87 -137,175l-141 0c0,-88 -68,-188 -156,-188 -88,0 -155,105 -155,194l-194 0c0,-89 -144,-191 -232,-191 -88,0 -133,97 -133,185l-243 0c8,12 -73,-152 -162,-160 -89,-7 -199,48 -199,136l-160 -5c0,-89 -58,-131 -131,-131 -73,0 -85,48 -85,136l-130 -5c0,0 -91,-133 -147,-133 -33,0 -63,22 -83,57z"/>
+  <path class="fil10 str1" d="M8991 9374l1384 0 1383 0 143 554 -76 0c0,0 0,-1 0,-2 0,-88 -48,-159 -108,-159 -60,0 -109,71 -109,159 0,1 0,2 0,2l-120 0c0,-88 -60,-159 -133,-159 -73,0 -132,71 -132,159l-157 0c0,-88 -71,-159 -159,-159 -88,0 -160,71 -160,159l-213 0c0,-88 -71,-159 -159,-159 -89,0 -160,71 -160,159l-211 0c0,-88 -72,-159 -160,-159 -88,0 -159,71 -159,159l-157 0c0,-88 -59,-159 -132,-159 -74,0 -133,71 -133,159l-120 0c0,0 0,-1 0,-2 0,-88 -49,-159 -109,-159 -60,0 -109,71 -109,159 0,1 0,2 0,2l-77 0 143 -554z"/>
+  <path class="fil4 str8" d="M9282 7097l2185 0 61 259 -2303 0 57 -259z"/>
+  <path class="fil4 str9" d="M10780 5528l343 0 315 1335 -636 0 -22 -1335z"/>
+  <path class="fil4 str8" d="M9692 5128l1361 0 61 258 -1479 0 57 -258z"/>
+  <path class="fil33" d="M10374 5704l231 604 -231 -1 85 -206 -85 -397z"/>
+ </g>
+ <g id="Слой_x0020_2">
+
+  <path class="fil34 str0" d="M9275 25956l305 0 69 212 -375 -16 1 -196zm0 0l305 0 7 -6076 76 -155 1 -718 -76 -210 2 -951 77 -243 -10 -367 -67 -141 5 -1943 1 -3705 85 -190 2 -632 -389 0 10 645 78 177 11 5648 -107 149 0 366 78 252 -7 945 -84 200 2 6949z"/>
+ </g>
+</svg>
